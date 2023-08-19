@@ -1,6 +1,6 @@
 # finix-template
 
-<p>Welcome to the Finix Template repository! This repository contains the source code for the Finix website template, a modern and responsive web template designed to create stunning and user-friendly websites. Whether you're building a portfolio, a business website, or a personal blog, the Finix Template provides a solid foundation with its clean design, smooth animations, and flexible layout.</p>
+<p>Welcome to the Finix Template repository! This repository hosts the source code for the Finix website template – a sleek, responsive, and modern web template crafted using HTML, CSS, and Bootstrap 5. This template is designed to empower developers and designers to create stunning websites with ease.</p>
 
 <h3>Key Features:</h3>
 
